@@ -250,3 +250,20 @@ footer { text-align: center; padding: 25px; background: #020617; border-top: 1px
   .window-dots { display: none; }
   .small-title { letter-spacing: 4px; }
 }
+
+.project-btn {
+  display: inline-block;
+  margin-top: 15px;
+  padding: 10px 18px;
+  background: #b00020;
+  color: #d4af37;
+  border: 1px solid #d4af37;
+  border-radius: 6px;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.project-btn:hover {
+  background: #d4af37;
+  color: #111;
+}
